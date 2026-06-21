@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.exe
+!bin/Release/PulseBrowser.exe
+GenerateIcon.cs

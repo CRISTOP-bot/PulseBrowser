@@ -68,6 +68,7 @@ Requiere [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-frame
 │  🔗 Listo                            ████████░░░ 70%   │
 └─────────────────────────────────────────────────────────┘
 ```
+(de el temu)
 
 ---
 
